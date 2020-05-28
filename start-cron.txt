@@ -1,0 +1,1 @@
+* 23 * * * /root/reposync/rhv_reposync.sh
