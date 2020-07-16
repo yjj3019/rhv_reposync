@@ -1,10 +1,10 @@
 #!/bin/bash
-set -x
+#set -x
 
 export repo_dir="/repo1"
 export todate=`date +%Y%m%d`
 export totime=`date +%Y%m%d-%H%M%S`
-export repofile="/repo1/logs/reposync-rhv.log.$totime"
+export repofile="/repo1/logs/reposync-rhv.log.$todate"
 export tmppath="/root/bin/temp"
 export fpath="/repo1/rhv.repo"
 
