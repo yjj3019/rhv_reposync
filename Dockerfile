@@ -1,6 +1,5 @@
 FROM registry.access.redhat.com/rhel7
 MAINTAINER jjyoo@rockplace.co.kr
-LABEL "RHEL7 reposync with Podman"
 LABEL summary="RHEL7 base reposync image"
 
 ### Timezone
